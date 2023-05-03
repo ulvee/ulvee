@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ulveesh" target="blank"><img src="https://img.shields.io/twitter/follow/ulveesh?logo=twitter&style=for-the-badge" alt="ulveesh" /></a> </p>
 
-<div align="right">
-<img src="https://www.troublefreepool.com/media/hello-gif.3474/" align="center" style="width: 100%" />
-</div>  
+<div align="center">
+<img src="https://www.troublefreepool.com/media/hello-gif.3474/full" align="center" style="width: 100%" />
+</div>
 
 - 👀 I’m interested in **Playing Football**
 
