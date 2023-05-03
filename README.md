@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulvi Tahmaz</h1>
-<!-- <h3 align="center">Hey, I'm Front-End Developer.</h3> -->
+<h3 align="center">Hey, I'm Front-End Developer.</h3>
 
-<p align="right">
-<img src="https://www.troublefreepool.com/media/hello-gif.3474/full" align="center" style="width: 100%" />
-</p>
+<img align="right" width="400" height="250" src="https://www.troublefreepool.com/media/hello-gif.3474/full"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvee&label=Profile%20views&color=0e75b6&style=flat" alt="ulvee" /> </p>
 
