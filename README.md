@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulvi Tahmaz</h1>
-<h3 align="center">Hey, I'm Front-End Developer.</h3>
+<!-- <h3 align="center">Hey, I'm Front-End Developer.</h3> -->
 
 <div align="center">
 <img src="https://www.troublefreepool.com/media/hello-gif.3474/full" align="center" style="width: 100%" />
