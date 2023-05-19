@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="350" src="https://www.troublefreepool.com/media/hello-gif.3474/full"/>
+<img align="center" width="100%" height="550" src="https://www.troublefreepool.com/media/hello-gif.3474/full"/>
 
 <h1 align="center">Hi 👋, I'm Ulvi Tahmaz</h1>
 <h3 align="center"></h3>
