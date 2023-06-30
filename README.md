@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in **Playing Football**
 
--🌱 I’m currently learning **JavaScript, ReactJs, Next.Js**
+- 🌱 I’m currently learning **JavaScript, ReactJs, Next.Js**
 
 - 📫 How to reach me **ulvee@mail.ru**
 
